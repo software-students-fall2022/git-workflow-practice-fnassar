@@ -1,6 +1,6 @@
 # Git Practice
 A simple project to practice a few git/github workflows.
-### This [website](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) has fun meme for software engineers:
+### This [website](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) has fun memes for software engineers:
 ## 
 We were ment to link an article or website that reminded us of software engineering. I chose a website that has a group of relatable memes I am sure all of us can relate to!
 #### The ones I related to the most were:
