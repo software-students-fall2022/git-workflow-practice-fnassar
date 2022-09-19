@@ -13,6 +13,6 @@ This one is basically my time going through all my previous codes and the strugg
 |   before     |   after   |
 |--------------|-----------|
 |![img 1](https://i.chzbgr.com/full/9340631552/h8C3349D4/your-colleague-asks-if-youre-going-to-go-back-and-properly-document-your-code-no-i-dont-thinkiw) | ![img 1](https://miro.medium.com/max/875/0*Oy9xpi9WU2JDqnBf) |
-|    The moment of regret :')   |
+    The moment of regret :')   
 
 Those are 2 of many more memes I'm sure we all relate to one way or another in this feild
