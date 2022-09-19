@@ -16,3 +16,5 @@ This one is basically my time going through all my previous codes and the strugg
     The moment of regret :')   
 
 Those are 2 of many more memes I'm sure we all relate to one way or another in this field
+
+><b>Comment</b> <i>By Maaz Ahmed</i> <br> I have always been a fan of coding memes, so this was a really fun read. <i> Now we have two bugs, now we have three,</i> I laughed so much here, thank you so much for sharing. If you want more memes, find more than a hundred cool software engineer memes [here](https://medium.com/fasal-engineering/funniest-software-development-memes-ever-f383ccf32a39)!
